@@ -19,8 +19,9 @@ Indian Institute of Technology, Madras, India
 * Low level and High level system design
 * Full stack software engineering
 
-<p></p>
-<p></p>
+
+
+
 ## Tools and Technologies
 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
