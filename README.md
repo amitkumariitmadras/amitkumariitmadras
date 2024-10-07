@@ -19,7 +19,7 @@ Indian Institute of Technology, Madras, India
 * Low level and High level system design
 * Full stack software engineering
 * Deep Learning, NLP, LLM & RAG
-* Typing Speed: 60+ Average
+* 10 Finger Typing Speed: 60+ Average
 
 
 
