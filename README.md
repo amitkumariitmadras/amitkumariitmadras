@@ -1,5 +1,5 @@
 # Amit Kumar                                                                     
-B.Tech Civil Engineering                                                    
+B.Tech CE                                                 
 Indian Institute of Technology, Madras, India                                       
 [E-mail](mailto:amitkumariitmadras@gmail.com) | [LinkedIn](https://www.linkedin.com/in/amitkumariitm/) | [Twitter](https://x.com/amitkumariitm) | [YouTube](https://www.youtube.com/@amitkumariitm) | [GitHub](https://github.com/amitkumariitmadras)
 
