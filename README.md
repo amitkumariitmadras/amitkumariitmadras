@@ -12,14 +12,14 @@ Indian Institute of Technology, Madras, India
     </a>
 </div>
 
-* Web and Mobile application Development
+* Web and Mobile Application Development
 * Data Structures & Algorithms
 * DevOps Engineering, Process Automation, Version control
 * Programming Languages: C++, C, Python, JavaScript/TypeScript, Java.
-* Low level and High level system design
+* Low-level and High-level system design
 * Full stack software engineering
 * Deep Learning, NLP, LLM & RAG
-* Touth Typing Speed: 60+ Average
+* Touch Typing Speed: 60+ Average
 
 
 
