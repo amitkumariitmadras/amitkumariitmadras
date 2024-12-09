@@ -18,7 +18,7 @@ Indian Institute of Technology, Madras, India
 * Programming Languages: C++, C, Python, JavaScript/TypeScript, Java.
 * Low-level and High-level system design
 * Full stack software engineering
-* Deep Learning, NLP, LLM & RAG
+* Machine Learning, NLP, LLM & RAG
 * Touch Typing Speed: ~70+ Average
 
 
