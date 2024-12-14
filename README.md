@@ -19,7 +19,7 @@ Indian Institute of Technology, Madras, India
 * Low-level and High-level system design
 * Full stack software engineering
 * Machine Learning, NLP, LLM & RAG
-* Touch Typing Speed: ~70+ Average
+* Touch Typing Speed: ~80+ Average
 
 
 
