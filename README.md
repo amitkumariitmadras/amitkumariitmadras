@@ -3,8 +3,6 @@ B.Tech CE
 Indian Institute of Technology, Madras, India                                       
 [E-mail](mailto:amitkumariitmadras@gmail.com) | [LinkedIn](https://www.linkedin.com/in/amitkumariitm/) | [Twitter](https://x.com/amitkumariitm) | [YouTube](https://www.youtube.com/@amitkumariitm) | [GitHub](https://github.com/amitkumariitmadras)
 
-<div><a href="https://topmate.io/amitkumariitm/"><img height="40px" src="./call-button.png"></img></a></div>
-
 ## Skills
 <div align=right>
     <a href="https://github.com/anuraghazra/github-readme-stats">
